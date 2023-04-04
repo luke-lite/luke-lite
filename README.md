@@ -1,6 +1,8 @@
 # Hi, there 👋 I’m Luke DiPerna
 
-I'm a data guy with an interest in language, sports, and finance. If you want to see some of my DS projects, you can check them out on my personal site [here](https://luke-lite.github.io/)
+I'm a data guy with an interest in language, sports, and finance. Here you can find repos for my data science projects and research, which you can see on my website [here](https://luke-lite.github.io/).
+
+**Proficiencies**: SQL, Python, Machine Learning, Analytics
 
 - 📫 Other places you can find/reach me:
   - [LinkedIn](https://www.linkedin.com/in/luke-diperna/)
