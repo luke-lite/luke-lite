@@ -4,7 +4,7 @@ I'm a data guy with an interest in language, sports, and finance. Below you can 
 
 **Proficiencies**: SQL, Python, Machine Learning, Tableau, PowerBI
 
-- 📫 Other places you can find/reach me:
+- 📫 Other places you can reach me:
   - [LinkedIn](https://www.linkedin.com/in/luke-diperna/)
   - [Twitter](https://twitter.com/@luke_lite_)
 
