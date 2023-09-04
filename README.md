@@ -7,6 +7,7 @@ I'm a data guy with a background in education and an interest in language, sport
 - 📫 Other places you can reach me:
   - [LinkedIn](https://www.linkedin.com/in/luke-diperna/)
   - [Twitter](https://twitter.com/@luke_lite_)
+  - Email: dipernaluke@gmail.com
 
 <!---
 luke-lite/luke-lite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
